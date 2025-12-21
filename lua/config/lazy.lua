@@ -51,3 +51,11 @@ require("lazy").setup({
     },
   },
 })
+
+vim.filetype.add({
+  extension = {
+    opentofu = "terraform",
+    tofuvars = "terraform-vars",
+  }
+})
+
