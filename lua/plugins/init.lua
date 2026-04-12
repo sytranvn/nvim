@@ -1,1 +1,3 @@
-if true then return {} end
+return {
+{ "tiagovla/scope.nvim", config = true }
+}
