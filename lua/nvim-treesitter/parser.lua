@@ -8,7 +8,7 @@ for ft, lang in pairs {
   gyp = "python",
   html_tags = "html",
   ["typescript.tsx"] = "tsx",
-  ["terraform-vars"] = "terraform",
+  ["terraform-vars"] = "opentofu",
   ["terraform"] = "opentofu",
   ["html.handlebars"] = "glimmer",
   systemverilog = "verilog",
